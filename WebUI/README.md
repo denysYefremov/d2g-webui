@@ -47,41 +47,41 @@ Redux best practices, and using Redux with React. **This course is free and will
 
 ###Additional libraries (included)
 
->**_[immutable](https://facebook.github.io/immutable-js/)_** - Immutable data cannot be changed once created, 
+**_[immutable](https://facebook.github.io/immutable-js/)_** - Immutable data cannot be changed once created, 
 leading to much simpler application development, no defensive copying, and enabling advanced memoization and change detection techniques with simple logic.
 
->**_[react router](https://github.com/ReactTraining/react-router/)_** - Is a complete routing library for React.
+**_[react router](https://github.com/ReactTraining/react-router/)_** - Is a complete routing library for React.
 
->**_[react-router-redux](https://github.com/reactjs/react-router-redux/)_** - Helps you keep bit of state in sync with your Redux store.
+**_[react-router-redux](https://github.com/reactjs/react-router-redux/)_** - Helps you keep bit of state in sync with your Redux store.
 
->**_[reselect](https://github.com/reactjs/reselect/)_** - Simple “selector” library for Redux
->* Selectors can compute derived data, allowing Redux to store the minimal possible state.
->* Selectors are efficient. A selector is not recomputed unless one of its arguments change.
->* Selectors are composable. They can be used as input to other selectors.
+**_[reselect](https://github.com/reactjs/reselect/)_** - Simple “selector” library for Redux
+* Selectors can compute derived data, allowing Redux to store the minimal possible state.
+* Selectors are efficient. A selector is not recomputed unless one of its arguments change.
+* Selectors are composable. They can be used as input to other selectors.
 
->**_[redux-thunk](https://github.com/gaearon/redux-thunk/)_** - Redux Thunk middleware allows you to write action 
+**_[redux-thunk](https://github.com/gaearon/redux-thunk/)_** - Redux Thunk middleware allows you to write action 
 creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met.
 
->**_[babel](https://babeljs.io/)_** - Has support for the latest version of JavaScript through syntax 
+**_[babel](https://babeljs.io/)_** - Has support for the latest version of JavaScript through syntax 
 transformers. These plugins allow you to use new syntax, right now without waiting for browser support.
 
->**_[eslint](http://eslint.org/)_** - The pluggable linting utility for JavaScript and JSX
+**_[eslint](http://eslint.org/)_** - The pluggable linting utility for JavaScript and JSX
 
->**_[airbnb](https://github.com/airbnb/javascript/)_** - A mostly reasonable approach to JavaScript. ESLint rules, including ECMAScript 6+ and React.
+**_[airbnb](https://github.com/airbnb/javascript/)_** - A mostly reasonable approach to JavaScript. ESLint rules, including ECMAScript 6+ and React.
 
->**_[webpack](https://webpack.github.io/)_** - Is a tool to build JavaScript modules in your application.
+**_[webpack](https://webpack.github.io/)_** - Is a tool to build JavaScript modules in your application.
 
 ###Additional libraries (may be included)
 
->**_[redux form](http://redux-form.com/)_** - primarily consists of four things:                                           
->* A Redux reducer that listens to dispatched redux-form actions to maintain your form state in Redux.
->* A React component decorator that wraps your entire form in a Higher Order Component (HOC) and provides functionality via props.
->* A Field component to connect your individual field inputs to the Redux store.
->* Various Action Creators for interacting with your forms throughout the application.
+**_[redux form](http://redux-form.com/)_** - primarily consists of four things:                                           
+* A Redux reducer that listens to dispatched redux-form actions to maintain your form state in Redux.
+* A React component decorator that wraps your entire form in a Higher Order Component (HOC) and provides functionality via props.
+* A Field component to connect your individual field inputs to the Redux store.
+* Various Action Creators for interacting with your forms throughout the application.
 
->**_[flow](https://flowtype.org/)_** - A static type checker for JavaScript
-> 
->Flow can catch common bugs in JavaScript programs before they run, including:
->* silent type conversions,
->* null dereferences,
->* and the dreaded undefined is not a function.
+**_[flow](https://flowtype.org/)_** - A static type checker for JavaScript
+ 
+Flow can catch common bugs in JavaScript programs before they run, including:
+* silent type conversions,
+* null dereferences,
+* and the dreaded undefined is not a function.
