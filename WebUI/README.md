@@ -1,6 +1,6 @@
 #WebUI
 
-###Technologies:
+##Technologies:
 
 #####_JavaScript_
 
@@ -11,7 +11,7 @@
 #####_Styles_
 * Less
 
-### React documentation
+## React documentation
 
 * [Introduction](https://facebook.github.io/react/docs/hello-world.html)
 * [Introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
@@ -22,7 +22,7 @@
 * [Refs and the DOM](https://facebook.github.io/react/docs/refs-and-the-dom.html)
 * [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 
-### Redux documentation
+## Redux documentation
 
 * [Introduction](http://redux.js.org/docs/introduction/index.html)
 * [Basics](http://redux.js.org/docs/basics/index.html)
@@ -32,20 +32,21 @@
 * [Glossary](http://redux.js.org/docs/Glossary.html)
 * [API Reference](http://redux.js.org/docs/api/index.html)
 
-### Learn Redux from Its Creator
+#### Learn Redux from Its Creator
 
 [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) is a video course consisting of 
 30 videos narrated by Dan Abramov, author of Redux. It is designed to complement the 
 “Basics” part of the docs while bringing additional insights about immutability, testing, 
 Redux best practices, and using Redux with React. **This course is free and will always be.**
 
-####Additional articles 
+#### Additional articles 
 
 >**[HOC (Higher-Order Components)](https://facebook.github.io/react/docs/higher-order-components.html)**
 
 >**[Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.wyfzsauqe)**
 
-###Additional libraries (included)
+##Additional libraries 
+###Included
 
 **_[immutable](https://facebook.github.io/immutable-js/)_** - Immutable data cannot be changed once created, 
 leading to much simpler application development, no defensive copying, and enabling advanced memoization and change detection techniques with simple logic.
@@ -71,7 +72,7 @@ transformers. These plugins allow you to use new syntax, right now without waiti
 
 **_[webpack](https://webpack.github.io/)_** - Is a tool to build JavaScript modules in your application.
 
-###Additional libraries (may be included)
+###May be included
 
 **_[redux form](http://redux-form.com/)_** - primarily consists of four things:                                           
 * A Redux reducer that listens to dispatched redux-form actions to maintain your form state in Redux.
