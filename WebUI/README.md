@@ -66,7 +66,7 @@ transformers. These plugins allow you to use new syntax, right now without waiti
 
 **_[eslint](http://eslint.org/)_** - The pluggable linting utility for JavaScript and JSX
 
-**_[airbnb](https://github.com/airbnb/javascript/)_** - A mostly reasonable approach to JavaScript. ESLint rules, including ECMAScript 6+ and React.
+**_[airbnb](https://github.com/airbnb/javascript/)_** - ESLint rules, including ECMAScript 6+ and React.
 
 **_[webpack](https://webpack.github.io/)_** - Is a tool to build JavaScript modules in your application.
 
