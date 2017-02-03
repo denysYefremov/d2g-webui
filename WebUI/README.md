@@ -70,7 +70,7 @@ transformers. These plugins allow you to use new syntax, right now without waiti
 
 **_[webpack](https://webpack.github.io/)_** - Is a tool to build JavaScript modules in your application.
 
-###May be included
+###Might be included
 
 **_[redux form](http://redux-form.com/)_** - primarily consists of four things:                                           
 * A Redux reducer that listens to dispatched redux-form actions to maintain your form state in Redux.
