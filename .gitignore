@@ -13,3 +13,6 @@ hs_err_pid*
 
 #WebUI dependencies
 WebUI/**/node_modules
+
+#JetBrains .idea
+.idea/
