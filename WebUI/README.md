@@ -1,5 +1,3 @@
-#WebUI
-
 ##Technologies:
 
 #####_JavaScript_
