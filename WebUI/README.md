@@ -1,12 +1,12 @@
-##Technologies:
+## Technologies:
 
-#####_JavaScript_
+##### _JavaScript_
 
 * React
 * Redux
 * ES6
 
-#####_Styles_
+##### _Styles_
 * Less
 
 ## React documentation
