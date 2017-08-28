@@ -43,8 +43,8 @@ Redux best practices, and using Redux with React. **This course is free and will
 
 >**[Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.wyfzsauqe)**
 
-##Additional libraries 
-###Included
+## Additional libraries 
+### Included
 
 **_[immutable](https://facebook.github.io/immutable-js/)_** - Immutable data cannot be changed once created, 
 leading to much simpler application development, no defensive copying, and enabling advanced memoization and change detection techniques with simple logic.
@@ -70,7 +70,7 @@ transformers. These plugins allow you to use new syntax, right now without waiti
 
 **_[webpack](https://webpack.github.io/)_** - Is a tool to build JavaScript modules in your application.
 
-###Might be included
+### Might be included
 
 **_[redux form](http://redux-form.com/)_** - primarily consists of four things:                                           
 * A Redux reducer that listens to dispatched redux-form actions to maintain your form state in Redux.
